@@ -1,4 +1,4 @@
-# 2025 Vivli AMR Surveillance Data Challenge
+# 2025 Vivli AMR Surveillance Data Challenge Student Prize
 This repository contains the code to reproduce our submission for the 2025 Vivli AMR Surveillance Data Challenge.
 
 R_script_data_processing.R cleans the raw ATLAS data and derives our final analytical sample of gram-negative blood isolates collected across Southern Europe 2018-2023.
